@@ -27,11 +27,16 @@ https://cloud.githubusercontent.com/assets/21350373/18690622/9d9fc4ba-7f54-11e6-
 
 The lack of any major updates to the design of certain system leads to a great comparison between different various social networks.
 My most frequently visited website is unquestionably Reddit.
+I started browsing the website when my eighth grade social studies teacher used images from r/history to provide some sort of entertainment to engage the class.
 Despite the website's lack of major, inovating changes it has managed to retain millions of dedicated users. 
 It was my first dive into a major social network and has influenced the way I look at all websites and how they manage to not just gain, but maintain a steady stream of users.
+
 Reddit encouraged me to become more inclined to voice an opinion with the knowledge that there are hundreds of people with similar opinions and interesting perspectives.
+By the time I recieved my own personal laptop I had become infatuated with the site and an avid browser and commentor.
 Boards like r/books, and r/asoiaf were personal favorites as most converstaion was limited yet concise.
 The ideal for these more structured discussions became my reasoning for distaste in the more popular networking sites.
+
+https://cloud.githubusercontent.com/assets/21350373/18691301/85a9f016-7f58-11e6-8352-a62619b4af22.png
 
 Facebook, to me, seems to be the antithesis to reddit.
 With constant updates and unpopular decision making, facebook despite having a more "modern" design is more aggrivating than the more old fashion designs I have grown accustomed to.
